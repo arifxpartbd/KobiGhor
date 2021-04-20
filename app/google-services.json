@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "332839867145",
+    "firebase_url": "https://kobita-7c579-default-rtdb.firebaseio.com",
+    "project_id": "kobita-7c579",
+    "storage_bucket": "kobita-7c579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332839867145:android:330e62acc6e9fa4431f9d8",
+        "android_client_info": {
+          "package_name": "kobighor.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332839867145-1oca25h64ec728090sonb9qsso1hd4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3LOkw4zgTIK6GyPh9ays0Bth135U2n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332839867145-1oca25h64ec728090sonb9qsso1hd4t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332839867145:android:43b7369b2ea206ba31f9d8",
+        "android_client_info": {
+          "package_name": "spjahangirkobita.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332839867145-1oca25h64ec728090sonb9qsso1hd4t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg3LOkw4zgTIK6GyPh9ays0Bth135U2n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332839867145-1oca25h64ec728090sonb9qsso1hd4t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
